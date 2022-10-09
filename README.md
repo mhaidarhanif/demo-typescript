@@ -1,6 +1,6 @@
 # Demo TypeScript
 
-Demo TypeScript
+Demo TypeScript with Vite.
 
 ## Links
 
